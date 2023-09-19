@@ -1,0 +1,7 @@
+Var s ::= matie bal;
+Int x ::= -5;
+Int y ::= 3;
+
+Begin;
+Int result ::= x + y;
+End;
